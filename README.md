@@ -57,7 +57,8 @@ The simulation parameters, including grid dimensions, initial cell states, and n
 
 1. Clone the repository:
    https://github.com/T-Nemeh/FireFlies.git
-2. Build the project:
+2. Navigate to directory: cd Fireflies
+3. Build the project:
    source build_sim.sh
 4. Run the project:
    ./bin/conway_life config/firefliesVisualization_config.json 
