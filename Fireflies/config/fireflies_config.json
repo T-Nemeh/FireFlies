@@ -1,0 +1,17 @@
+{
+  "scenario": {
+    "shape": [10, 10, 10],
+    "origin": [0, 0, 0],
+    "wrapped": true
+  },
+  "cells": {
+    "default": {
+      "delay": "transport",
+      "model": "fireflies",
+      "state": { "count": 0 },
+      "neighborhood": [
+        { "type": "moore", "range": 1 }
+      ]
+    }
+  }
+}

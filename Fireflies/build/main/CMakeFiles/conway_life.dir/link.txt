@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/conway_life.dir/main.cpp.o -o /home/Tala/cell-devs-manual-example/bin/conway_life 
